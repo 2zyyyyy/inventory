@@ -1,0 +1,11 @@
+# app.yaml
+app:
+  env: test
+  port: 9000
+  release: false
+mysql:
+  name: gorm
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: 7788
